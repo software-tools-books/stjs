@@ -165,7 +165,7 @@ as an argument:
 <%- include('/inc/multi.html', {pat: 'list-dir-function-defined.*', fill: 'sh slice.out'}) %>
 
 Nothing that follows will make sense if we don't understand
-the order in which [Node][node.js] executes the statements in this program
+the order in which [Node][nodejs] executes the statements in this program
 (<f key="systems-programming-execution-order"></f>):
 
 1.  Execute the first line to load the `fs` library.
@@ -295,7 +295,7 @@ it turns out that `glob` will filter for us.
 According to its documentation,
 the function takes an `options` object full of key-value settings
 that control its behavior.
-This is another common pattern in [Node][node.js] libraries:
+This is another common pattern in [Node][nodejs] libraries:
 rather than accepting a large number of rarely-used parameters,
 a function can take a single object full of settings.
 
