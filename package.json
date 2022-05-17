@@ -24,7 +24,7 @@
     "deep-equal": "^2.0.5",
     "deepmerge": "^4.2.2",
     "ecstatic": "^4.1.4",
-    "ejs": "^3.1.5",
+    "ejs": "^3.1.7",
     "ejs-lint": "^1.1.0",
     "escodegen": "^2.0.0",
     "fs": "0.0.1-security",
