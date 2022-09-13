@@ -21,7 +21,7 @@ so we will start by looking at them.
 Programs stores HTML pages in memory using a [% i "DOM" "Document Object Model" %][% g dom %]document object model[% /g %][% /i %] or DOM.
 Each element in the page,
 such as a heading and or paragraph,
-is a [% g node %]nodes[% /g %];
+is a [% g node %]node[% /g %];
 the [% g child_tree %]children[% /g %] of a node are the elements it contains
 ([% f pattern-matching-dom-tree %]).
 
