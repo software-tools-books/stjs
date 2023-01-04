@@ -48,6 +48,6 @@
     "request": "^2.88.2",
     "rimraf": "^3.0.2",
     "standard": "^16.0.3",
-    "terminal-kit": "^1.44.0"
+    "terminal-kit": "^3.0.0"
   }
 }
